@@ -197,7 +197,7 @@
         <dependency>
             <groupId>org.casbin</groupId>
             <artifactId>jcasbin</artifactId>
-            <version>LATEST</version>
+            <version>1.7.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
